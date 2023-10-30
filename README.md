@@ -30,6 +30,7 @@ Step 6: sudo cp -r directory_name/{bin,include,lib,share} /usr/
 In my case --> sudo cp -r node-v14.15.5-linux-x64/{bin,include,lib,share} /usr/
 
 Step 7: Update the Path export PATH=/usr/node_directory_name/bin:$PATH
+
 In my case --> export PATH=/usr/node-v14.15.5-linux-x64/bin:$PATH
 
 Step 8: Check the node version
